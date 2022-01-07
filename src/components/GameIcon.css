@@ -1,0 +1,13 @@
+.game-icon {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    height: 80px;
+    width: 80px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.game-icon-symbol {
+    font-size: 30px;
+    padding-top: 5px;
+}
