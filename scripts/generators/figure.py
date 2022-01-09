@@ -2,18 +2,34 @@
 Figure Puzzle Generator
 """
 
+from calendar import monthrange
+
 import itertools
 import json
 import random
 import sys
 
 def main():
-    # Optionally specify difficulty in command line argument
-    # difficulty = int(sys.argv[1]) if len(sys.argv) == 2 else 1
-    # if difficulty < 1 or difficulty > 3:
-    #     print("Invalid difficulty.")
-    #     return
+    generate_month(2022, 1)
 
+def generate_month(year, month):
+    num_days = monthrange(year, month)[1]
+    for i in range(1, num_days + 1):
+        puzzles = []
+        for difficulty in [1, 1, 2, 2, 3, 3]:
+            puzzle = generate_puzzle(difficulty)
+            puzzles.append((difficulty, puzzle))
+
+        print(f"    \"{year}-{str(month).zfill(2)}-{str(i).zfill(2)}\": [")
+
+        for i, (difficulty, puzzle) in enumerate(puzzles):
+            print(" " * 8, end="")
+            print_puzzle(difficulty, puzzle, end="\n" if i + 1 == len(puzzles) else ",\n")
+        print("    ],")
+
+
+
+def generate_set():
     puzzles = []
     for difficulty in [1, 1, 2, 2, 3, 3]:
         puzzle = generate_puzzle(difficulty)
@@ -135,13 +151,13 @@ def generate_puzzle(difficulty):
         if target >= minimum and target <= maximum:
             return (list(original_values), target, solution)
 
-def print_puzzle(difficulty, puzzle, show_solution=False):
+def print_puzzle(difficulty, puzzle, show_solution=False, end="\n"):
     values, target, solution = puzzle
     puzzle_spec = {"difficulty": difficulty, "values": values, "target": target}
     if show_solution:
         solution = ", ".join([f"{num1} {op} {num2} = {result}" for (num1, op, num2, result) in solution])
         puzzle_spec["solution"] = solution
-    print(json.dumps(puzzle_spec), end=",\n")
+    print(json.dumps(puzzle_spec), end=end)
 
 if __name__ == "__main__":
     main()
