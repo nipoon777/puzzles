@@ -1,0 +1,56 @@
+.figure-number {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    height: 50px;
+    line-height: 50px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    width: 50px;
+}
+
+.figure-number, .figure-operator {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.figure-number:hover, .figure-operator:hover {
+    background-color: #fff7e0;
+}
+
+.figure-operator {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    height: 20px;
+    line-height: 20px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    width: 20px;
+}
+
+.figure-next-puzzle-btn {
+    background-color: #54c248;
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
