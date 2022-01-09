@@ -1,18 +1,18 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import HomeScreen from './components/HomeScreen';
 import Figure from './components/games/figure/Figure';
 
 function App() {
   return (
     <div className="app">
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/">
             <Route index element={ <HomeScreen /> } />
             <Route path="figure" element={ <Figure /> } />
           </Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
