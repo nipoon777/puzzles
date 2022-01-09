@@ -81,7 +81,7 @@ export default function Figure() {
             }
             setPuzzles(todayPuzzles);
         })
-        .catch(err => {
+        .catch(() => {
             setError("Could not load today's puzzle.");
         });
     }

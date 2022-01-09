@@ -2,7 +2,7 @@ import { HashRouter, Routes, Route } from 'react-router-dom';
 import HomeScreen from './components/HomeScreen';
 import Figure from './components/games/figure/Figure';
 
-function App() {
+export default function App() {
   return (
     <div className="app">
       <HashRouter>
@@ -16,5 +16,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
