@@ -6,5 +6,181 @@
         {"difficulty": 2, "values": [2, 9, 10, 12, 14, 16, 22, 29], "target": 159},
         {"difficulty": 3, "values": [5, 6, 10, 11, 12, 14, 21, 26], "target": 212},
         {"difficulty": 3, "values": [3, 5, 10, 11, 17, 18, 21, 27], "target": 399}
+    ],
+    "2022-01-10": [
+        {"difficulty": 1, "values": [2, 7, 8, 11, 16, 19, 22, 26], "target": 36},
+        {"difficulty": 1, "values": [3, 7, 10, 14, 16, 17, 22, 25], "target": 40},
+        {"difficulty": 2, "values": [2, 4, 9, 12, 16, 17, 24, 27], "target": 158},
+        {"difficulty": 2, "values": [3, 6, 10, 11, 13, 16, 21, 23], "target": 118},
+        {"difficulty": 3, "values": [7, 8, 9, 11, 13, 18, 26, 28], "target": 230},
+        {"difficulty": 3, "values": [3, 8, 9, 15, 17, 18, 27, 29], "target": 219}
+    ],
+    "2022-01-11": [
+        {"difficulty": 1, "values": [7, 8, 9, 13, 16, 17, 22, 24], "target": 18},
+        {"difficulty": 1, "values": [5, 6, 9, 12, 15, 19, 25, 28], "target": 36},
+        {"difficulty": 2, "values": [3, 5, 9, 12, 18, 19, 21, 23], "target": 140},
+        {"difficulty": 2, "values": [3, 7, 10, 11, 13, 18, 22, 29], "target": 56},
+        {"difficulty": 3, "values": [2, 6, 10, 12, 17, 19, 25, 27], "target": 225},
+        {"difficulty": 3, "values": [5, 6, 9, 12, 15, 19, 27, 29], "target": 448}
+    ],
+    "2022-01-12": [
+        {"difficulty": 1, "values": [2, 3, 4, 13, 17, 19, 23, 24], "target": 35},
+        {"difficulty": 1, "values": [2, 4, 8, 14, 17, 18, 21, 27], "target": 24},
+        {"difficulty": 2, "values": [2, 6, 8, 12, 18, 19, 21, 22], "target": 187},
+        {"difficulty": 2, "values": [5, 6, 7, 15, 17, 19, 21, 22], "target": 63},
+        {"difficulty": 3, "values": [2, 4, 7, 13, 15, 18, 22, 25], "target": 300},
+        {"difficulty": 3, "values": [2, 6, 9, 11, 15, 16, 23, 26], "target": 418}
+    ],
+    "2022-01-13": [
+        {"difficulty": 1, "values": [2, 5, 6, 11, 16, 18, 21, 28], "target": 48},
+        {"difficulty": 1, "values": [2, 6, 7, 11, 14, 18, 21, 22], "target": 48},
+        {"difficulty": 2, "values": [5, 9, 10, 11, 17, 18, 26, 27], "target": 105},
+        {"difficulty": 2, "values": [3, 7, 8, 11, 13, 19, 26, 27], "target": 166},
+        {"difficulty": 3, "values": [3, 5, 7, 12, 17, 18, 28, 29], "target": 249},
+        {"difficulty": 3, "values": [4, 5, 8, 12, 13, 18, 24, 26], "target": 380}
+    ],
+    "2022-01-14": [
+        {"difficulty": 1, "values": [2, 4, 9, 13, 14, 16, 21, 23], "target": 45},
+        {"difficulty": 1, "values": [5, 6, 8, 12, 15, 16, 22, 27], "target": 29},
+        {"difficulty": 2, "values": [5, 7, 8, 11, 13, 17, 22, 24], "target": 166},
+        {"difficulty": 2, "values": [3, 5, 9, 11, 16, 18, 23, 24], "target": 87},
+        {"difficulty": 3, "values": [4, 8, 10, 12, 13, 17, 21, 24], "target": 356},
+        {"difficulty": 3, "values": [2, 4, 5, 13, 15, 16, 23, 27], "target": 270}
+    ],
+    "2022-01-15": [
+        {"difficulty": 1, "values": [8, 9, 10, 11, 15, 17, 23, 27], "target": 22},
+        {"difficulty": 1, "values": [4, 5, 8, 17, 18, 19, 22, 23], "target": 46},
+        {"difficulty": 2, "values": [4, 5, 9, 12, 14, 18, 23, 26], "target": 91},
+        {"difficulty": 2, "values": [2, 5, 8, 11, 15, 17, 24, 26], "target": 160},
+        {"difficulty": 3, "values": [2, 5, 9, 11, 18, 19, 25, 28], "target": 311},
+        {"difficulty": 3, "values": [2, 7, 8, 12, 14, 15, 28, 29], "target": 280}
+    ],
+    "2022-01-16": [
+        {"difficulty": 1, "values": [6, 7, 8, 11, 14, 17, 23, 25], "target": 35},
+        {"difficulty": 1, "values": [3, 7, 9, 11, 17, 19, 23, 25], "target": 46},
+        {"difficulty": 2, "values": [7, 9, 10, 11, 15, 17, 27, 29], "target": 84},
+        {"difficulty": 2, "values": [7, 8, 9, 11, 16, 18, 21, 23], "target": 113},
+        {"difficulty": 3, "values": [5, 7, 10, 13, 14, 18, 26, 29], "target": 269},
+        {"difficulty": 3, "values": [7, 8, 9, 12, 18, 19, 22, 24], "target": 210}
+    ],
+    "2022-01-17": [
+        {"difficulty": 1, "values": [3, 6, 10, 13, 15, 16, 22, 28], "target": 36},
+        {"difficulty": 1, "values": [3, 4, 5, 13, 14, 19, 25, 29], "target": 40},
+        {"difficulty": 2, "values": [2, 3, 9, 11, 12, 13, 24, 26], "target": 186},
+        {"difficulty": 2, "values": [2, 3, 5, 17, 18, 19, 24, 29], "target": 78},
+        {"difficulty": 3, "values": [4, 6, 7, 11, 12, 16, 21, 25], "target": 253},
+        {"difficulty": 3, "values": [2, 7, 9, 14, 16, 18, 25, 27], "target": 250}
+    ],
+    "2022-01-18": [
+        {"difficulty": 1, "values": [3, 5, 9, 12, 15, 19, 22, 28], "target": 44},
+        {"difficulty": 1, "values": [2, 5, 6, 16, 17, 19, 28, 29], "target": 43},
+        {"difficulty": 2, "values": [2, 4, 7, 15, 17, 19, 21, 26], "target": 90},
+        {"difficulty": 2, "values": [6, 7, 8, 14, 17, 19, 23, 28], "target": 127},
+        {"difficulty": 3, "values": [3, 4, 9, 11, 18, 19, 24, 28], "target": 290},
+        {"difficulty": 3, "values": [5, 6, 9, 11, 12, 14, 28, 29], "target": 246}
+    ],
+    "2022-01-19": [
+        {"difficulty": 1, "values": [4, 5, 8, 12, 16, 18, 22, 23], "target": 44},
+        {"difficulty": 1, "values": [4, 9, 10, 13, 14, 17, 26, 28], "target": 20},
+        {"difficulty": 2, "values": [6, 9, 10, 11, 13, 14, 24, 29], "target": 189},
+        {"difficulty": 2, "values": [5, 7, 9, 12, 15, 16, 22, 29], "target": 59},
+        {"difficulty": 3, "values": [2, 8, 9, 16, 17, 18, 25, 26], "target": 321},
+        {"difficulty": 3, "values": [3, 4, 9, 12, 14, 17, 21, 22], "target": 313}
+    ],
+    "2022-01-20": [
+        {"difficulty": 1, "values": [7, 8, 10, 15, 17, 19, 22, 25], "target": 21},
+        {"difficulty": 1, "values": [3, 4, 5, 14, 15, 17, 21, 22], "target": 28},
+        {"difficulty": 2, "values": [3, 7, 9, 12, 13, 14, 24, 27], "target": 140},
+        {"difficulty": 2, "values": [3, 7, 8, 13, 14, 15, 26, 28], "target": 147},
+        {"difficulty": 3, "values": [4, 7, 8, 12, 15, 18, 25, 27], "target": 354},
+        {"difficulty": 3, "values": [7, 8, 10, 11, 12, 14, 23, 28], "target": 406}
+    ],
+    "2022-01-21": [
+        {"difficulty": 1, "values": [7, 9, 10, 11, 14, 18, 25, 27], "target": 50},
+        {"difficulty": 1, "values": [2, 7, 10, 11, 14, 18, 23, 29], "target": 50},
+        {"difficulty": 2, "values": [3, 4, 7, 15, 17, 19, 22, 24], "target": 61},
+        {"difficulty": 2, "values": [4, 6, 9, 12, 17, 18, 24, 28], "target": 81},
+        {"difficulty": 3, "values": [3, 6, 7, 11, 13, 18, 21, 26], "target": 324},
+        {"difficulty": 3, "values": [2, 6, 10, 11, 12, 15, 22, 28], "target": 285}
+    ],
+    "2022-01-22": [
+        {"difficulty": 1, "values": [2, 3, 10, 12, 15, 17, 23, 29], "target": 16},
+        {"difficulty": 1, "values": [3, 5, 10, 13, 14, 16, 21, 24], "target": 22},
+        {"difficulty": 2, "values": [2, 8, 10, 12, 13, 14, 21, 24], "target": 68},
+        {"difficulty": 2, "values": [7, 8, 9, 16, 18, 19, 24, 28], "target": 107},
+        {"difficulty": 3, "values": [2, 3, 9, 12, 13, 17, 21, 22], "target": 216},
+        {"difficulty": 3, "values": [4, 6, 10, 16, 17, 19, 28, 29], "target": 431}
+    ],
+    "2022-01-23": [
+        {"difficulty": 1, "values": [5, 6, 8, 13, 15, 19, 26, 28], "target": 42},
+        {"difficulty": 1, "values": [3, 7, 10, 14, 15, 18, 25, 27], "target": 23},
+        {"difficulty": 2, "values": [3, 6, 7, 13, 16, 19, 26, 27], "target": 190},
+        {"difficulty": 2, "values": [7, 9, 10, 12, 14, 15, 21, 29], "target": 118},
+        {"difficulty": 3, "values": [2, 6, 7, 11, 15, 19, 24, 26], "target": 321},
+        {"difficulty": 3, "values": [3, 4, 7, 15, 17, 19, 23, 24], "target": 293}
+    ],
+    "2022-01-24": [
+        {"difficulty": 1, "values": [4, 6, 7, 12, 16, 17, 23, 29], "target": 32},
+        {"difficulty": 1, "values": [3, 8, 9, 15, 16, 19, 22, 27], "target": 21},
+        {"difficulty": 2, "values": [3, 9, 10, 12, 15, 16, 21, 27], "target": 99},
+        {"difficulty": 2, "values": [2, 4, 8, 14, 16, 18, 22, 26], "target": 84},
+        {"difficulty": 3, "values": [5, 6, 7, 11, 16, 18, 28, 29], "target": 271},
+        {"difficulty": 3, "values": [7, 9, 10, 11, 12, 14, 22, 27], "target": 374}
+    ],
+    "2022-01-25": [
+        {"difficulty": 1, "values": [2, 7, 10, 11, 12, 16, 25, 27], "target": 46},
+        {"difficulty": 1, "values": [2, 8, 9, 12, 14, 18, 24, 25], "target": 31},
+        {"difficulty": 2, "values": [2, 6, 8, 12, 16, 19, 21, 29], "target": 125},
+        {"difficulty": 2, "values": [2, 3, 7, 12, 14, 17, 22, 27], "target": 87},
+        {"difficulty": 3, "values": [7, 9, 10, 13, 15, 18, 28, 29], "target": 210},
+        {"difficulty": 3, "values": [2, 6, 8, 11, 13, 18, 22, 27], "target": 337}
+    ],
+    "2022-01-26": [
+        {"difficulty": 1, "values": [4, 6, 9, 14, 15, 17, 23, 25], "target": 45},
+        {"difficulty": 1, "values": [5, 6, 10, 11, 16, 17, 26, 27], "target": 34},
+        {"difficulty": 2, "values": [7, 9, 10, 15, 18, 19, 23, 29], "target": 60},
+        {"difficulty": 2, "values": [5, 6, 8, 11, 13, 14, 27, 28], "target": 126},
+        {"difficulty": 3, "values": [6, 9, 10, 12, 13, 16, 24, 26], "target": 400},
+        {"difficulty": 3, "values": [5, 6, 7, 11, 16, 18, 21, 22], "target": 276}
+    ],
+    "2022-01-27": [
+        {"difficulty": 1, "values": [5, 7, 8, 13, 14, 15, 26, 27], "target": 30},
+        {"difficulty": 1, "values": [3, 4, 5, 12, 14, 16, 26, 29], "target": 50},
+        {"difficulty": 2, "values": [7, 8, 9, 11, 18, 19, 21, 22], "target": 191},
+        {"difficulty": 2, "values": [4, 6, 9, 11, 14, 18, 22, 27], "target": 152},
+        {"difficulty": 3, "values": [7, 8, 9, 12, 15, 17, 21, 26], "target": 387},
+        {"difficulty": 3, "values": [2, 3, 9, 12, 14, 18, 23, 24], "target": 385}
+    ],
+    "2022-01-28": [
+        {"difficulty": 1, "values": [3, 8, 9, 11, 12, 13, 25, 27], "target": 32},
+        {"difficulty": 1, "values": [3, 5, 7, 14, 16, 19, 22, 24], "target": 32},
+        {"difficulty": 2, "values": [5, 8, 10, 15, 16, 19, 24, 28], "target": 166},
+        {"difficulty": 2, "values": [4, 5, 6, 13, 17, 18, 26, 29], "target": 80},
+        {"difficulty": 3, "values": [4, 6, 10, 13, 14, 16, 21, 29], "target": 384},
+        {"difficulty": 3, "values": [3, 6, 8, 11, 13, 19, 21, 28], "target": 211}
+    ],
+    "2022-01-29": [
+        {"difficulty": 1, "values": [3, 5, 10, 14, 15, 19, 23, 24], "target": 46},
+        {"difficulty": 1, "values": [3, 5, 10, 11, 14, 17, 28, 29], "target": 48},
+        {"difficulty": 2, "values": [3, 5, 6, 11, 12, 17, 27, 28], "target": 138},
+        {"difficulty": 2, "values": [5, 8, 10, 13, 16, 17, 24, 28], "target": 132},
+        {"difficulty": 3, "values": [4, 7, 10, 13, 15, 19, 27, 28], "target": 290},
+        {"difficulty": 3, "values": [7, 8, 9, 13, 15, 19, 27, 28], "target": 215}
+    ],
+    "2022-01-30": [
+        {"difficulty": 1, "values": [2, 4, 5, 11, 12, 18, 24, 28], "target": 21},
+        {"difficulty": 1, "values": [2, 3, 7, 11, 15, 17, 24, 26], "target": 42},
+        {"difficulty": 2, "values": [4, 8, 10, 11, 14, 16, 23, 29], "target": 161},
+        {"difficulty": 2, "values": [5, 6, 10, 14, 18, 19, 25, 27], "target": 197},
+        {"difficulty": 3, "values": [4, 5, 6, 11, 13, 17, 21, 25], "target": 280},
+        {"difficulty": 3, "values": [3, 4, 7, 11, 14, 18, 27, 29], "target": 205}
+    ],
+    "2022-01-31": [
+        {"difficulty": 1, "values": [3, 5, 10, 12, 15, 19, 22, 28], "target": 21},
+        {"difficulty": 1, "values": [8, 9, 10, 11, 12, 15, 22, 23], "target": 40},
+        {"difficulty": 2, "values": [3, 5, 10, 13, 17, 19, 22, 26], "target": 60},
+        {"difficulty": 2, "values": [7, 9, 10, 14, 16, 18, 25, 28], "target": 190},
+        {"difficulty": 3, "values": [5, 6, 10, 11, 16, 17, 27, 29], "target": 402},
+        {"difficulty": 3, "values": [2, 5, 7, 12, 13, 17, 24, 28], "target": 240}
     ]
 }
